@@ -22,11 +22,11 @@ h1, h2, h3 {
     color: var(--highlight-color);
 }
 
-.row, .container {
+/*.row, .container {
     border: 1px solid #000;
 }
 
 .col-12 {
     background: #eee;
     border: 1px solid #FFF;
-}
+}*/
