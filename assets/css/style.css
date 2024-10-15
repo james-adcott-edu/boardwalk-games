@@ -105,6 +105,16 @@ h2 {
     background: transparent
 }
 
+/* events */
+
+.student-disc {
+    background: var(--highlight-color);
+    color: #FFF;
+    padding: .3em 1em;
+    font-weight: bold;
+    display: block;
+}
+
 
 /* Media queries */
 
@@ -113,6 +123,11 @@ h2 {
     /* Make all service cards the same height for consistency */
     #services .card-body {
         min-height: 191px;
+    }
+
+    /* student discount not stretched */
+    .student-disc {
+        display: inline;
     }
 }
 
