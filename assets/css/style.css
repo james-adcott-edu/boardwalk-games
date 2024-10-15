@@ -22,6 +22,16 @@ h1, h2, h3 {
     color: var(--highlight-color);
 }
 
+/* navbar */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    height: 30px;
+}
+
 /*.row, .container {
     border: 1px solid #000;
 }
