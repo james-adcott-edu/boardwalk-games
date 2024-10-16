@@ -115,6 +115,16 @@ h2 {
     display: block;
 }
 
+/* reserve */
+
+#reserve label {
+    display: block;
+}
+
+#reserve input, #reserve select {
+    width: 100%;
+}
+
 
 /* Media queries */
 
