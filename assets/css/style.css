@@ -31,8 +31,7 @@ h2 {
 }
 
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 4rem;
 }
 /* navbar */
 
@@ -146,6 +145,10 @@ h2 {
     /* Make all service cards the same height for consistency */
     #services .card-body {
         min-height: auto;
+    }
+
+    .navbar * {
+        transition: none;
     }
 }
 
