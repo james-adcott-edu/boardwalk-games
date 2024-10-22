@@ -150,6 +150,7 @@ h2 {
     /* remove animation */
     .collapsing {
         transition: none;
+        overflow: visible;
     }
 }
 
