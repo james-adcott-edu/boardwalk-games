@@ -147,7 +147,8 @@ h2 {
         min-height: auto;
     }
 
-    .navbar * {
+    /* remove animation */
+    .collapsing {
         transition: none;
     }
 }
